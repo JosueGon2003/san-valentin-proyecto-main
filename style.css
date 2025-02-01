@@ -31,7 +31,7 @@ body {
     text-align: center;
     align-items: center;
     gap: 15px; /* Reducimos aún más el espacio entre elementos */
-    max-width: 25%; /* Ajustamos el ancho para que no sea tan grande */
+    max-width: 90%; /* Ajustamos el ancho para que no sea tan grande */
     margin: 10px; /* Reducimos el margen */
     padding: 15px; /* Reducimos el padding */
     background: rgba(255, 255, 255, 0.1);
